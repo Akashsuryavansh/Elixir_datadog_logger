@@ -1,0 +1,20 @@
+date,Host,Service,Status,index,Source,message
+2020-04-24T18:42:03.488Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:03.383Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:03.327Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:03.238Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:03.138Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:03.073Z,some-server,some-service,debug,,some-source,asd
+2020-04-24T18:42:02.998Z,some-server,some-service,error,,some-source,asd
+2020-04-24T18:42:02.892Z,some-server,some-service,critical,,some-source,asd
+2020-04-24T18:42:02.798Z,some-server,some-service,error,,some-source,asd
+2020-04-24T18:42:02.728Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:02.624Z,some-server,something,info,,some-source,asd
+2020-04-24T18:42:02.548Z,some-server,something,info,,some-source,asd
+2020-04-24T18:42:02.447Z,some-server,some-service,info,,laptop,asd
+2020-04-24T18:42:02.347Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:02.242Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:02.188Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:02.123Z,some-server,some-service,info,,some-source,asd
+2020-04-24T18:42:01.962Z,some-server,some-service,info,,some-source,This is an example log message over HTTP!
+2020-04-24T18:42:01.867Z,some-server,some-service,info,,some-source,data
